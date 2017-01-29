@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\SoltyssArkadiusz\poprawaa\poprawaa\bin\Debug\poprawaa.exe.config
+C:\Users\local\Desktop\SoltyssArkadiusz\poprawaa\poprawaa\bin\Debug\poprawaa.exe
+C:\Users\local\Desktop\SoltyssArkadiusz\poprawaa\poprawaa\bin\Debug\poprawaa.pdb
+C:\Users\local\Desktop\SoltyssArkadiusz\poprawaa\poprawaa\obj\Debug\poprawaa.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\SoltyssArkadiusz\poprawaa\poprawaa\obj\Debug\poprawaa.exe
+C:\Users\local\Desktop\SoltyssArkadiusz\poprawaa\poprawaa\obj\Debug\poprawaa.pdb
